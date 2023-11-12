@@ -11,16 +11,16 @@ Brindo estas credenciales para probar:
 JUECES:
 username: nmgrad
 password: toronja
----
+-
 username: blcampos
 password: sensei
----
+-
 username: blcampos
 password: sensei
----
+-
 username: eyeager
 password: titan
----
+-
 
 ADMIN:
 username: sergovia
