@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "653f8c7b23ade625a0678614"
+  },
+  "username": "nmgrad",
+  "name": "Nicolás Mercado Grad",
+  "password": "$2b$10$KapOvZXvJzzNZQCqDYWJvOT.v1Hu5G/2vrYwGkDlwQHr/3eEpsZmm"
+},
+{
+  "_id": {
+    "$oid": "654fa33378a7af1776a25bcd"
+  },
+  "username": "blcampos",
+  "name": "Brian Lara Campos",
+  "password": "$2b$10$MDwR7.HqSxfuzhu0Q8HSRu.87l6Nv/MRKamee6PKKyrglRgMLx6Be"
+},
+{
+  "_id": {
+    "$oid": "654fa36078a7af1776a25bce"
+  },
+  "username": "pgonzalez",
+  "name": "Pamela Gonzalez",
+  "password": "$2b$10$p4Pm6sHX6TO/JAaGzIrva.sAqo8x3TO6LuFnejZ4s0BDqt9KAadKC"
+},
+{
+  "_id": {
+    "$oid": "654fa3ac78a7af1776a25bcf"
+  },
+  "username": "eyeager",
+  "name": "Eren Yeager",
+  "password": "$2b$10$SATro3r8AgSr7hYIlj8hQeGTs3YUI4i9uSCw5ACZ1ky2E5b5Awvxm"
+}]

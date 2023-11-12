@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "653f59f325ad4d2d0ce28677"
+  },
+  "name": "Inscryption",
+  "genre": [
+    "roguelike",
+    "puzzle",
+    "terror"
+  ],
+  "members": [
+    "Micaela Ortiz",
+    "Brian Larson",
+    "John Doe"
+  ],
+  "edition": 2021
+},
+{
+  "_id": {
+    "$oid": "653f61e554d98a6ab8a998db"
+  },
+  "name": "Blasphemous 2",
+  "genre": [
+    "metroidvania",
+    "hack and slash"
+  ],
+  "members": [
+    "Enrique Cabeza",
+    "Francisco Ureña"
+  ],
+  "edition": 2019
+},
+{
+  "_id": {
+    "$oid": "654ac75eaceb5436da7fd847"
+  },
+  "name": "God of War",
+  "members": [
+    "Cory Barlog",
+    "David Jaffe",
+    "Todd Pappy",
+    "Mark Simon"
+  ],
+  "edition": 2018,
+  "genre": [
+    "action",
+    "hack and slash"
+  ]
+},
+{
+  "_id": {
+    "$oid": "654fa41a78a7af1776a25bd0"
+  },
+  "name": "Returnal",
+  "genre": [
+    "action",
+    " shooter"
+  ],
+  "members": [
+    "Henri Mustonen",
+    " Harry Krueger",
+    " Ari Arnbjörnsson",
+    " Ville Kinnunen"
+  ],
+  "edition": 2021
+},
+{
+  "_id": {
+    "$oid": "654fa46978a7af1776a25bd1"
+  },
+  "name": "Hellblade: Senua's Sacrifice",
+  "genre": [
+    "puzzle",
+    "   action",
+    "   adventure"
+  ],
+  "members": [
+    "Tameem Antoniades",
+    "   Dominic Matthews"
+  ],
+  "edition": 2017
+},
+{
+  "_id": {
+    "$oid": "65515f062b5a9f731a91d4e1"
+  },
+  "name": "Bayonetta",
+  "genre": [
+    "action",
+    " hack and slash"
+  ],
+  "members": [
+    "Hideki Kamiya",
+    " Yusuke Hashimoto",
+    " Masami Ueda"
+  ],
+  "edition": 2009
+}]

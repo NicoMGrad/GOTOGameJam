@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.typekit.net/sec5lkd.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="imgs/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="imgs/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="imgs/favicon/favicon-16x16.png">
+    <link rel="manifest" href="imgs/favicon/site.webmanifest">
+    <link rel="mask-icon" href="imgs/favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css">
+    <title>GOTO::Juez Panel</title>
+</head>
+<body class="panel">
+    <header>
+        <img src="imgs/logo-01-02.svg" class="logo-header" alt="GOTO Game Jam 2023" />
+    </header>
+    <main>
+        <div class="secondHeader" id="secondHeader">
+            <h1>Juegos</h1>
+            <div class="filterContainer">
+                <p>Ordenar por: </p>
+                <div id="abcFilter">
+                    <span>
+                        A / Z
+                    </span>
+                    <span class="material-symbols-outlined" id="abcSortAsc">
+                        expand_more
+                    </span>
+                    <span class="material-symbols-outlined" id="abcSortDesc">
+                        expand_less
+                    </span>
+                </div>
+                <div id="yearFilter">
+                    <span>
+                        Año
+                    </span>
+                    <span class="material-symbols-outlined" id="yearSortAsc">
+                        expand_more
+                    </span>
+                    <span class="material-symbols-outlined" id="yearSortDesc">
+                        expand_less
+                    </span>
+                </div>
+            </div>
+            <button class="btn btn-green btn-round onlyClose" id="btnReset">
+                <span class="material-symbols-outlined">
+                    refresh
+                </span>
+            </button>
+        </div>
+        <div id="gameCards">
+            Cargando cards...
+        </div>
+    </main>
+    <div class="sessionContainer">
+        <img src="./imgs/judge-icon.svg" alt="Judge" class="userIcon"/>
+        <h2 id="judgeName">Cargando nombre...</h1>
+        <button id="closeSession" class="btn btn-green">Cerrar Sesión</button>
+    </div>
+    <script src="userPanel.js"></script>
+    <script>
+        fetch('http://localhost:2024/games/orderBy?criteria=name&order=1')
+            .then(response => response.json())
+            .then(data => console.log(data))
+            .catch(error => console.error('Error:', error));
+    </script>
+</body>
+</html>

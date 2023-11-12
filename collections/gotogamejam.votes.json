@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "65403887f739987e8e37d133"
+  },
+  "judge": {
+    "$oid": "653f8c7b23ade625a0678614"
+  },
+  "game": {
+    "$oid": "653f59f325ad4d2d0ce28677"
+  },
+  "scores": {
+    "gameplay": 5,
+    "art": 8,
+    "sound": 6,
+    "afinity": 9
+  },
+  "finalScore": 7
+},
+{
+  "_id": {
+    "$oid": "654fa4a878a7af1776a25bd3"
+  },
+  "judge": {
+    "$oid": "654fa33378a7af1776a25bcd"
+  },
+  "game": {
+    "$oid": "653f59f325ad4d2d0ce28677"
+  },
+  "scores": {
+    "gameplay": "6",
+    "art": "4",
+    "sound": "7",
+    "afinity": "9"
+  },
+  "finalScore": 6.5
+},
+{
+  "_id": {
+    "$oid": "654fa4b578a7af1776a25bd4"
+  },
+  "judge": {
+    "$oid": "654fa33378a7af1776a25bcd"
+  },
+  "game": {
+    "$oid": "654fa46978a7af1776a25bd1"
+  },
+  "scores": {
+    "gameplay": "6",
+    "art": "7",
+    "sound": "3",
+    "afinity": "8"
+  },
+  "finalScore": 6
+},
+{
+  "_id": {
+    "$oid": "654fa4bf78a7af1776a25bd5"
+  },
+  "judge": {
+    "$oid": "654fa33378a7af1776a25bcd"
+  },
+  "game": {
+    "$oid": "654ac75eaceb5436da7fd847"
+  },
+  "scores": {
+    "gameplay": "10",
+    "art": "9",
+    "sound": "3",
+    "afinity": "8"
+  },
+  "finalScore": 7.5
+},
+{
+  "_id": {
+    "$oid": "654fcf5a78a7af1776a25bd7"
+  },
+  "judge": {
+    "$oid": "654fa36078a7af1776a25bce"
+  },
+  "game": {
+    "$oid": "653f61e554d98a6ab8a998db"
+  },
+  "scores": {
+    "gameplay": "4",
+    "art": "5",
+    "sound": "6",
+    "afinity": "2"
+  },
+  "finalScore": 4.25
+},
+{
+  "_id": {
+    "$oid": "654fcf6078a7af1776a25bd8"
+  },
+  "judge": {
+    "$oid": "654fa36078a7af1776a25bce"
+  },
+  "game": {
+    "$oid": "654fa41a78a7af1776a25bd0"
+  },
+  "scores": {
+    "gameplay": "1",
+    "art": "2",
+    "sound": "3",
+    "afinity": "4"
+  },
+  "finalScore": 2.5
+},
+{
+  "_id": {
+    "$oid": "654fd07e78a7af1776a25bd9"
+  },
+  "judge": {
+    "$oid": "654fa36078a7af1776a25bce"
+  },
+  "game": {
+    "$oid": "654ac75eaceb5436da7fd847"
+  },
+  "scores": {
+    "gameplay": "5",
+    "art": "6",
+    "sound": "4",
+    "afinity": "3"
+  },
+  "finalScore": 4.5
+},
+{
+  "_id": {
+    "$oid": "654fd08678a7af1776a25bda"
+  },
+  "judge": {
+    "$oid": "654fa36078a7af1776a25bce"
+  },
+  "game": {
+    "$oid": "654fa46978a7af1776a25bd1"
+  },
+  "scores": {
+    "gameplay": "3",
+    "art": "2",
+    "sound": "1",
+    "afinity": "5"
+  },
+  "finalScore": 2.75
+},
+{
+  "_id": {
+    "$oid": "654fd1213c09221ffd23cd7f"
+  },
+  "judge": {
+    "$oid": "654fa3ac78a7af1776a25bcf"
+  },
+  "game": {
+    "$oid": "654ac75eaceb5436da7fd847"
+  },
+  "scores": {
+    "gameplay": "4",
+    "art": "5",
+    "sound": "10",
+    "afinity": "4"
+  },
+  "finalScore": 5.75
+},
+{
+  "_id": {
+    "$oid": "654fd1273c09221ffd23cd80"
+  },
+  "judge": {
+    "$oid": "654fa3ac78a7af1776a25bcf"
+  },
+  "game": {
+    "$oid": "653f59f325ad4d2d0ce28677"
+  },
+  "scores": {
+    "gameplay": "9",
+    "art": "9",
+    "sound": "9",
+    "afinity": "9"
+  },
+  "finalScore": 9
+},
+{
+  "_id": {
+    "$oid": "654fd12e3c09221ffd23cd81"
+  },
+  "judge": {
+    "$oid": "654fa3ac78a7af1776a25bcf"
+  },
+  "game": {
+    "$oid": "654fa41a78a7af1776a25bd0"
+  },
+  "scores": {
+    "gameplay": "4",
+    "art": "3",
+    "sound": "1",
+    "afinity": "9"
+  },
+  "finalScore": 4.25
+},
+{
+  "_id": {
+    "$oid": "654fd13a3c09221ffd23cd82"
+  },
+  "judge": {
+    "$oid": "654fa3ac78a7af1776a25bcf"
+  },
+  "game": {
+    "$oid": "654fa46978a7af1776a25bd1"
+  },
+  "scores": {
+    "gameplay": "3",
+    "art": "7",
+    "sound": "9",
+    "afinity": "10"
+  },
+  "finalScore": 7.25
+}]
