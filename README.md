@@ -9,19 +9,19 @@ Aplicaciones Híbridas - Primer Parcial | Mercado Grad Nicolás
 Brindo estas credenciales para probar:
 
 JUECES:
-username: nmgrad
+username: nmgrad /
 password: toronja
--
-username: blcampos
+
+username: blcampos /
 password: sensei
--
-username: blcampos
+
+username: blcampos /
 password: sensei
--
-username: eyeager
+
+username: eyeager /
 password: titan
--
+
 
 ADMIN:
-username: sergovia
+username: sergovia /
 password: platano
